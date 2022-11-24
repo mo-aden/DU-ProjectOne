@@ -1,3 +1,9 @@
-# DU-Projects
+# Horison Responsive Site
 
-<h3>What i did to complete the project</h3>
+This project I completed on how to make a site responsive on any viewport.
+
+### Deployed Application in the Link below ↓
+
+https://mo-aden.github.io/Responsive-webPage/
+
+
