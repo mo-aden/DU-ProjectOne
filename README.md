@@ -1,6 +1,6 @@
-# Horison Responsive Site
+# New Horiseon App
 
-This is the project 1 of my coding bootcamp at the University of Denver Bootcamps.
+In this project one, I was tasked to complete the following user story by adhering to the best coding practices.
 
 ### User Story
 
